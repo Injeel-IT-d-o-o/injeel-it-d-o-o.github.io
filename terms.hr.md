@@ -1,0 +1,114 @@
+---
+layout: default
+title: Uvjeti korištenja
+permalink: /terms.hr/
+---
+
+# Uvjeti korištenja
+
+**Datum posljednje izmjene:** 8. svibnja 2026.
+
+Ovi Uvjeti korištenja ("Uvjeti") uređuju vaše korištenje mobilne aplikacije **UKP Quiz** ("Aplikacija"), koju pruža **Injeel IT d.o.o.**, Pete Poljanice 5, 10040 Zagreb, Hrvatska, OIB 55064630991 ("mi", "nas", "naš").
+
+Izradom računa ili korištenjem Aplikacije pristajete na ove Uvjete. Ako se s njima ne slažete, nemojte koristiti Aplikaciju.
+
+Engleska verzija dostupna je na [injeel-it.hr/terms](/terms).
+
+## 1. Aplikacija
+
+UKP Quiz je mobilna aplikacija koja vam omogućuje vježbanje kviz znanja, prijavu na pub kviz događaje uživo, praćenje ligaške ljestvice te povezivanje s ostalim igračima. Dio sadržaja je besplatan, a određene značajke i sadržaj zahtijevaju aktivnu pretplatu **PubQuiz Premium**.
+
+Kviz sadržaj prikazan u Aplikaciji pruža **Kvizovi j.d.o.o.** u okviru partnerstva za sadržaj.
+
+## 2. Uvjeti korištenja
+
+Aplikaciju mogu koristiti osobe od najmanje 16 godina. Ako ste mlađi od 18 godina, potvrđujete da imate dopuštenje roditelja ili zakonskog skrbnika.
+
+## 3. Vaš račun
+
+Odgovorni ste za tajnost svojih pristupnih podataka. Račun nemojte dijeliti ni s kim. Prilikom registracije dužni ste navesti točne podatke i održavati ih ažurnima.
+
+Račune koji krše ove Uvjete, pokušaju manipulirati rezultatima ili ljestvicama, zlostavljaju druge korisnike ili pokušavaju neovlašteno pristupiti sustavu Aplikacije možemo suspendirati ili ukinuti.
+
+## 4. Pretplate
+
+Aplikacija nudi automatski obnovljive pretplate:
+
+- **Mjesečni Premium** — 4,99 USD mjesečno (ili lokalna protuvrijednost koju određuje Apple)
+- **Godišnji Premium** — 39,99 USD godišnje, uz 7 dana besplatnog probnog perioda za nove pretplatnike
+
+Uvjeti pretplate:
+
+- Iznos se naplaćuje s vašeg Apple ID računa pri potvrdi kupnje.
+- Pretplata se automatski obnavlja na kraju svakog razdoblja, osim ako se automatska obnova isključi najmanje 24 sata prije isteka tekućeg razdoblja.
+- Naplata obnove izvršava se unutar 24 sata prije isteka razdoblja.
+- Pretplatu možete upravljati i isključiti automatsku obnovu u postavkama svog Apple ID računa (Postavke → [vaše ime] → Pretplate na iOS-u).
+- Eventualni neiskorišteni dio besplatnog probnog razdoblja gubi se prilikom kupnje pretplate, sukladno Appleovim pravilima.
+- Povrat sredstava, kada je dostupan, obrađuje Apple, a ne mi. Zahtjev za povrat podnosite na [reportaproblem.apple.com](https://reportaproblem.apple.com).
+
+Cijene u zemljama izvan Sjedinjenih Američkih Država određuje Apple prema lokalnoj valuti i primjenjivim porezima. Cijene se mogu mijenjati; o povećanju ćemo vas obavijestiti prije primjene, a vi pretplatu možete otkazati prije nego nova cijena stupi na snagu.
+
+## 5. Prihvatljiva uporaba
+
+Suglasni ste da nećete:
+
+- Koristiti Aplikaciju u bilo koju nezakonitu svrhu ni kršiti propise
+- Pokušati izvršiti reverzni inženjering, dekompilaciju ili izvlačenje izvornog koda Aplikacije
+- Koristiti automatska sredstva (botove, scrapere) za interakciju s Aplikacijom
+- Varati ni pokušavati manipulirati rezultatima, ljestvicama ili ligaškim porecima
+- Predstavljati se kao druga osoba, koristiti uvredljiva korisnička imena ili imena timova niti uznemiravati druge korisnike
+- Objavljivati sadržaj koji je nezakonit, klevetnički, povrjeđujući prava ili na drugi način neprihvatljiv
+- Ometati sigurnost Aplikacije ni korištenje Aplikacije od strane drugih korisnika
+
+## 6. Sadržaj korisnika
+
+Možete kreirati korisnička imena, imena timova i slične kratke tekstualne nizove. Zadržavate vlasništvo nad onim što unosite, no nama dajete neisključivu, besplatnu, globalnu licencu za prikaz tog sadržaja unutar Aplikacije. Sadržaj koji krši ove Uvjete ili primjenjive propise možemo ukloniti bez prethodne najave.
+
+## 7. Naša intelektualna prava
+
+Aplikacija, uključujući njezin dizajn, kod, grafiku, zvuk, video i kviz sadržaj, vlasništvo je tvrtke Injeel IT d.o.o., Kvizovi j.d.o.o. ili naših davatelja licence te je zaštićena hrvatskim i međunarodnim propisima o autorskom pravu, žigu i drugim pravima intelektualnog vlasništva. Dajemo vam osobnu, neprenosivu, neisključivu i opozivu licencu za korištenje Aplikacije u osobne, nekomercijalne svrhe, sukladno ovim Uvjetima.
+
+Bez naše prethodne pisane suglasnosti nije dopušteno reproducirati, redistribuirati, prodavati niti izrađivati izvedena djela bilo kojeg kviz sadržaja, audio ili video materijala ili grafike.
+
+## 8. Usluge trećih strana
+
+Aplikacija koristi usluge Applea, Googlea, Firebasea i drugih. Vaše korištenje tih usluga uređeno je i njihovim uvjetima korištenja i pravilima privatnosti. Mi nismo odgovorni za usluge trećih strana.
+
+## 9. Prestanak
+
+Račun možete obrisati u bilo kojem trenutku putem **Postavke → Račun → Obriši račun**. Pristup Aplikaciji možemo suspendirati ili ukinuti ako prekršite ove Uvjete.
+
+Ako se račun ukine zbog kršenja Uvjeta, neiskorištena razdoblja pretplate ne refundiraju se.
+
+## 10. Odricanje od jamstva
+
+Aplikacija se nudi "kakva jest" i "kakva je dostupna", bez ikakvih jamstava, osim onih obveznih po propisima o zaštiti potrošača. Ne jamčimo da će Aplikacija raditi bez pogrešaka, bez prekida ili da će svi nedostaci biti otklonjeni.
+
+Ako ste potrošač u Europskoj uniji, ova klauzula ne utječe na vaša obvezna potrošačka prava.
+
+## 11. Ograničenje odgovornosti
+
+U najvećoj mjeri dopuštenoj propisima, naša ukupna odgovornost koja proizlazi iz Aplikacije ili je s njom povezana ograničena je na iznos koji ste nam platili za pretplate u 12 mjeseci prije događaja koji je doveo do zahtjeva. Ne odgovaramo za neizravnu, slučajnu ili posljedičnu štetu, izgubljenu dobit, izgubljene podatke ili prekid poslovanja.
+
+Ovo ograničenje ne primjenjuje se na:
+
+- Odgovornost za smrt ili tjelesnu ozljedu prouzročenu nepažnjom
+- Odgovornost za prijevaru ili lažno predstavljanje
+- Prava potrošača koja se ne mogu isključiti hrvatskim ili EU propisima
+
+## 12. Mjerodavno pravo i nadležnost
+
+Na ove Uvjete primjenjuje se pravo Republike Hrvatske. Za sporove koji proizlaze iz Uvjeta ili Aplikacije isključivo je nadležan stvarno nadležni sud u Zagrebu, osim u dijelu u kojem obvezni propisi o zaštiti potrošača propisuju drukčije.
+
+EU potrošači mogu koristiti i platformu Europske komisije za rješavanje sporova online: [ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
+
+## 13. Promjene Uvjeta
+
+Ove Uvjete možemo ažurirati. Datum na vrhu odražava posljednju izmjenu. O bitnim izmjenama obavijestit ćemo vas kroz Aplikaciju i dati vam najmanje 30 dana da prihvatite nove Uvjete ili prestanete koristiti Aplikaciju.
+
+## 14. Kontakt
+
+**Injeel IT d.o.o.**
+Pete Poljanice 5, 10040 Zagreb, Hrvatska
+OIB: 55064630991, PDV ID: HR55064630991
+E-mail: support@injeel-it.hr
