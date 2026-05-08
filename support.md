@@ -8,7 +8,7 @@ permalink: /support/
 
 Need help with **UKP Quiz**? You're in the right place.
 
-A Croatian version of this page is available at [injeel-it.hr/support.hr](/support.hr).
+A Croatian version of this page is available at [injeel-it-d-o-o.github.io/support.hr](/support.hr).
 
 ## Contact us
 
@@ -87,7 +87,7 @@ In the App, **Settings → Notifications**, turn off any category you don't want
 ### Privacy
 
 **What data does the App collect?**
-See our full Privacy Policy: [injeel-it.hr/privacy](/privacy)
+See our full Privacy Policy: [injeel-it-d-o-o.github.io/privacy](/privacy)
 
 **How do I download my data?**
 Email privacy@injeel-it.hr and ask for a copy. We will send it to you within 30 days in a machine-readable format.

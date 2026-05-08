@@ -15,7 +15,7 @@ permalink: /privacy/
 
 This Privacy Policy explains how Injeel IT d.o.o. ("we", "us", "our") collects, uses, and protects personal data when you use the **UKP Quiz** mobile application ("the App"). We are the data controller for personal data processed through the App under Regulation (EU) 2016/679 (GDPR) and the Croatian Act on the Implementation of the General Data Protection Regulation.
 
-A Croatian version of this policy is available at [injeel-it.hr/privacy.hr](/privacy.hr).
+A Croatian version of this policy is available at [injeel-it-d-o-o.github.io/privacy.hr](/privacy.hr).
 
 ## 1. Data we collect
 

@@ -8,7 +8,7 @@ permalink: /support.hr/
 
 Trebate pomoć s aplikacijom **UKP Quiz**? Na pravom ste mjestu.
 
-Engleska verzija dostupna je na [injeel-it.hr/support](/support).
+Engleska verzija dostupna je na [injeel-it-d-o-o.github.io/support](/support).
 
 ## Kontaktirajte nas
 
@@ -87,7 +87,7 @@ U Aplikaciji **Postavke → Obavijesti** isključite kategorije koje ne želite.
 ### Privatnost
 
 **Koje podatke Aplikacija prikuplja?**
-Pogledajte cjelovitu Politiku privatnosti: [injeel-it.hr/privacy.hr](/privacy.hr)
+Pogledajte cjelovitu Politiku privatnosti: [injeel-it-d-o-o.github.io/privacy.hr](/privacy.hr)
 
 **Kako preuzeti svoje podatke?**
 Pišite na privacy@injeel-it.hr i zatražite kopiju svojih podataka. Poslat ćemo vam ih unutar 30 dana u strojno čitljivom formatu.

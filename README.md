@@ -1,19 +1,28 @@
-# injeel-it.hr
+# injeel-it-d-o-o.github.io
 
-Public website for **Injeel IT d.o.o.** Hosts the legal pages and support center for the **UKP Quiz** mobile app.
+Legal pages and support center for the **UKP Quiz** mobile app, published by **Injeel IT d.o.o.**
+
+The main company site lives at [injeel-it.hr](https://injeel-it.hr); this repo only hosts the documents Apple requires for App Store submission.
 
 ## Live URLs
 
-- https://injeel-it.hr/
-- https://injeel-it.hr/privacy and https://injeel-it.hr/privacy.hr
-- https://injeel-it.hr/terms and https://injeel-it.hr/terms.hr
-- https://injeel-it.hr/support and https://injeel-it.hr/support.hr
+- https://injeel-it-d-o-o.github.io/
+- https://injeel-it-d-o-o.github.io/privacy and `/privacy.hr`
+- https://injeel-it-d-o-o.github.io/terms and `/terms.hr`
+- https://injeel-it-d-o-o.github.io/support and `/support.hr`
+
+These URLs go into App Store Connect under:
+
+- **App Privacy → Privacy Policy URL** → `/privacy`
+- **App Information → Privacy Policy URL** (per locale) → `/privacy` for English, `/privacy.hr` for Croatian
+- **Subscription → Terms of Use URL** → `/terms`
+- **Support URL** → `/support`
 
 ## How it works
 
-This is a GitHub Pages organization site (the `<org>.github.io` repo on the [Injeel-IT-d-o-o](https://github.com/Injeel-IT-d-o-o) org). Both `.html` and `.md` versions of each page are committed; GitHub Pages serves the `.html` files directly when present, and Jekyll renders the `.md` files for clean URLs.
+This is a GitHub Pages organization site (the `<org>.github.io` repo on the [Injeel-IT-d-o-o](https://github.com/Injeel-IT-d-o-o) org). Both `.html` and `.md` versions of each page are committed; GitHub Pages serves the `.html` files when present and Jekyll renders the `.md` files for clean URLs.
 
-The custom domain `injeel-it.hr` is wired up via the `CNAME` file in this repo plus DNS records pointing at GitHub Pages.
+No custom domain is configured. If Injeel IT later wants the legal pages on `injeel-it.hr` directly (e.g. as a `legal.injeel-it.hr` subdomain), the steps are documented in `docs/plans/app store submission/legal/README.md` in the PubQuiz repo.
 
 ## Editing
 
@@ -28,4 +37,4 @@ When updating any document:
 Injeel IT d.o.o.
 Pete Poljanice 5, 10040 Zagreb, Croatia
 OIB: 55064630991, VAT: HR55064630991
-support@injeel-it.hr / privacy@injeel-it.hr
+support@injeel-it.hr · privacy@injeel-it.hr

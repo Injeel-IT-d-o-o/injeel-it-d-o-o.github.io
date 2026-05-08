@@ -15,7 +15,7 @@ permalink: /privacy.hr/
 
 Ova Politika privatnosti objašnjava kako Injeel IT d.o.o. ("mi", "nas", "naš") prikuplja, koristi i štiti osobne podatke kada koristite mobilnu aplikaciju **UKP Quiz** ("Aplikacija"). Mi smo voditelj obrade osobnih podataka koji se obrađuju kroz Aplikaciju, sukladno Uredbi (EU) 2016/679 (Opća uredba o zaštiti podataka, GDPR) te Zakonu o provedbi Opće uredbe o zaštiti podataka.
 
-Engleska verzija dostupna je na [injeel-it.hr/privacy](/privacy).
+Engleska verzija dostupna je na [injeel-it-d-o-o.github.io/privacy](/privacy).
 
 ## 1. Podaci koje prikupljamo
 

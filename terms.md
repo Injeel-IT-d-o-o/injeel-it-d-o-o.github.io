@@ -12,7 +12,7 @@ These Terms of Use ("Terms") govern your use of the **UKP Quiz** mobile applicat
 
 By creating an account or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
-A Croatian version of these terms is available at [injeel-it.hr/terms.hr](/terms.hr).
+A Croatian version of these terms is available at [injeel-it-d-o-o.github.io/terms.hr](/terms.hr).
 
 ## 1. The App
 

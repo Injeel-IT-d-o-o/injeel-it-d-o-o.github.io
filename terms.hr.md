@@ -12,7 +12,7 @@ Ovi Uvjeti korištenja ("Uvjeti") uređuju vaše korištenje mobilne aplikacije 
 
 Izradom računa ili korištenjem Aplikacije pristajete na ove Uvjete. Ako se s njima ne slažete, nemojte koristiti Aplikaciju.
 
-Engleska verzija dostupna je na [injeel-it.hr/terms](/terms).
+Engleska verzija dostupna je na [injeel-it-d-o-o.github.io/terms](/terms).
 
 ## 1. Aplikacija
 
