@@ -10,6 +10,7 @@ The main company site lives at [injeel-it.hr](https://injeel-it.hr); this repo o
 - https://injeel-it-d-o-o.github.io/privacy and `/privacy.hr`
 - https://injeel-it-d-o-o.github.io/terms and `/terms.hr`
 - https://injeel-it-d-o-o.github.io/support and `/support.hr`
+- https://injeel-it-d-o-o.github.io/help and `/help.hr`
 
 These URLs go into App Store Connect under:
 
