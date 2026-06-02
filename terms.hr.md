@@ -6,7 +6,7 @@ permalink: /terms.hr/
 
 # Uvjeti korištenja
 
-**Datum posljednje izmjene:** 8. svibnja 2026.
+**Datum posljednje izmjene:** 2. lipnja 2026.
 
 Ovi Uvjeti korištenja ("Uvjeti") uređuju vaše korištenje mobilne aplikacije **UKP Quiz** ("Aplikacija"), koju pruža **Injeel IT d.o.o.**, Pete Poljanice 5, 10040 Zagreb, Hrvatska, OIB 55064630991 ("mi", "nas", "naš").
 
@@ -34,19 +34,21 @@ Račune koji krše ove Uvjete, pokušaju manipulirati rezultatima ili ljestvicam
 
 Aplikacija nudi automatski obnovljive pretplate:
 
-- **Mjesečni Premium** — 4,99 USD mjesečno (ili lokalna protuvrijednost koju određuje Apple)
-- **Godišnji Premium** — 39,99 USD godišnje, uz 7 dana besplatnog probnog perioda za nove pretplatnike
+- **Mjesečni Premium**, naplaćuje se mjesečno
+- **Godišnji Premium**, naplaćuje se godišnje, uz 7 dana besplatnog probnog perioda za nove pretplatnike
+
+Pretplate se prodaju putem trgovine iz koje ste preuzeli Aplikaciju (**Apple App Store** na iOS-u ili **Google Play** na Androidu). Naplatu, obnove i povrate obrađuje ta trgovina prema vlastitim uvjetima.
 
 Uvjeti pretplate:
 
-- Iznos se naplaćuje s vašeg Apple ID računa pri potvrdi kupnje.
+- Iznos se naplaćuje s vašeg Apple ID ili Google računa pri potvrdi kupnje.
 - Pretplata se automatski obnavlja na kraju svakog razdoblja, osim ako se automatska obnova isključi najmanje 24 sata prije isteka tekućeg razdoblja.
 - Naplata obnove izvršava se unutar 24 sata prije isteka razdoblja.
-- Pretplatu možete upravljati i isključiti automatsku obnovu u postavkama svog Apple ID računa (Postavke → [vaše ime] → Pretplate na iOS-u).
-- Eventualni neiskorišteni dio besplatnog probnog razdoblja gubi se prilikom kupnje pretplate, sukladno Appleovim pravilima.
-- Povrat sredstava, kada je dostupan, obrađuje Apple, a ne mi. Zahtjev za povrat podnosite na [reportaproblem.apple.com](https://reportaproblem.apple.com).
+- Pretplatu možete upravljati i isključiti automatsku obnovu u postavkama računa svoje trgovine. Na iOS-u: Postavke → [vaše ime] → Pretplate. Na Androidu: Google Play → Plaćanja i pretplate → Pretplate.
+- Eventualni neiskorišteni dio besplatnog probnog razdoblja gubi se prilikom kupnje pretplate, sukladno pravilima trgovine.
+- Povrat sredstava, kada je dostupan, obrađuje trgovina, a ne mi. Na iOS-u zahtjev podnosite na [reportaproblem.apple.com](https://reportaproblem.apple.com). Na Androidu zahtjev podnosite putem [Google Playa](https://play.google.com/store/account).
 
-Cijene u zemljama izvan Sjedinjenih Američkih Država određuje Apple prema lokalnoj valuti i primjenjivim porezima. Cijene se mogu mijenjati; o povećanju ćemo vas obavijestiti prije primjene, a vi pretplatu možete otkazati prije nego nova cijena stupi na snagu.
+Trenutna cijena prikazuje se u Aplikaciji i potvrđuje u trgovini prije nego dovršite kupnju. Cijene su izražene u vašoj lokalnoj valuti, uključuju primjenjive poreze i mogu se razlikovati ovisno o državi. Cijene se mogu mijenjati; o povećanju ćemo vas obavijestiti prije primjene, a vi pretplatu možete otkazati prije nego nova cijena stupi na snagu.
 
 ## 5. Prihvatljiva uporaba
 

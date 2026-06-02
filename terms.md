@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms of Use
 
-**Last updated:** 8 May 2026
+**Last updated:** 2 June 2026
 
 These Terms of Use ("Terms") govern your use of the **UKP Quiz** mobile application ("the App"), provided by **Injeel IT d.o.o.**, Pete Poljanice 5, 10040 Zagreb, Croatia, OIB 55064630991 ("we", "us", "our").
 
@@ -34,19 +34,21 @@ We may suspend or terminate accounts that violate these Terms, attempt to manipu
 
 The App offers auto-renewing subscriptions:
 
-- **Monthly Premium** — USD 4.99 per month (or local equivalent set by Apple)
-- **Yearly Premium** — USD 39.99 per year, with a 7-day free trial for new subscribers
+- **Monthly Premium**, billed monthly
+- **Yearly Premium**, billed yearly, with a 7-day free trial for new subscribers
+
+Subscriptions are sold through the store you downloaded the App from (the **Apple App Store** on iOS or **Google Play** on Android). Billing, renewals, and refunds are handled by that store under its own terms.
 
 Subscription terms:
 
-- Payment is charged to your Apple ID account at confirmation of purchase.
-- The subscription automatically renews at the end of each period unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Payment is charged to your Apple ID or Google account at confirmation of purchase.
+- The subscription automatically renews at the end of each period unless auto-renewal is turned off at least 24 hours before the end of the current period.
 - The renewal charge will be processed within 24 hours of the period end.
-- You can manage your subscription, including turning off auto-renewal, in your Apple ID account settings (Settings → [your name] → Subscriptions on iOS).
-- Any unused portion of a free trial period is forfeited when you purchase a subscription, in accordance with Apple's policies.
-- Refunds, where available, are processed by Apple, not by us. Request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+- You can manage your subscription, including turning off auto-renewal, in your store account settings. On iOS: Settings → [your name] → Subscriptions. On Android: Google Play → Payments & subscriptions → Subscriptions.
+- Any unused portion of a free trial period is forfeited when you purchase a subscription, in accordance with the store's policies.
+- Refunds, where available, are processed by the store, not by us. On iOS, request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com). On Android, request a refund through [Google Play](https://play.google.com/store/account).
 
-Prices in territories other than the United States are set by Apple based on local currency and applicable taxes. Prices may change; we will notify you of any price increase before it takes effect, and you can cancel before the new price applies.
+The current price is shown in the App and confirmed by the store before you complete any purchase. Prices are set in your local currency, include applicable taxes, and may vary by country. Prices may change; we will notify you of any price increase before it takes effect, and you can cancel before the new price applies.
 
 ## 5. Acceptable use
 
