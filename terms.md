@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms of Use
 
-**Last updated:** 2 June 2026
+**Last updated:** 7 September 2026
 
 These Terms of Use ("Terms") govern your use of the **UKP Quiz** mobile application ("the App"), provided by **Injeel IT d.o.o.**, Pete Poljanice 5, 10040 Zagreb, Croatia, OIB 55064630991 ("we", "us", "our").
 
@@ -62,9 +62,25 @@ You agree not to:
 - Submit content that is illegal, defamatory, infringing, or otherwise objectionable
 - Interfere with the App's security or with other users' use of the App
 
-## 6. User-generated content
+## 6. User-generated content and zero tolerance for abuse
 
-You may create usernames, team names, and similar short strings of text. You retain ownership of what you submit but grant us a worldwide, non-exclusive, royalty-free license to display it within the App. We may remove user-generated content that violates these Terms or applicable law without notice.
+Parts of the App let you create content that other players can see: your username, team names, your Arena nickname, the answers you type in a live Arena room, emoji reactions, messages in the Arena spectator chat, and the optional note you can post when you are looking for a team.
+
+You retain ownership of what you submit, but you grant us a worldwide, non-exclusive, royalty-free license to display it within the App.
+
+**We have zero tolerance for objectionable content and for abusive users.** You must not submit or transmit anything that is illegal, hateful, threatening, harassing, defamatory, sexually explicit, discriminatory, or that infringes someone else's rights, and you must not impersonate another person. Content that is broadcast to other players passes through an automated filter, and anything that breaks this rule may be removed without notice.
+
+### Reporting and blocking
+
+Every player has these controls in the App:
+
+- **Report a player.** Press and hold a player's entry in the live Arena feed and choose "Report player". You can also report a quiz question with "Report Question" on the question card.
+- **Block a player.** The same menu offers "Block". A blocked player's content stops being shown to you immediately. Blocked players are listed on the Arena leaderboard screen under "Blocked players", where you can unblock them.
+- **Mute a player** for the current session, without blocking them.
+
+We review reports and act on them, normally within 24 hours. Depending on what we find, we may remove the content, reset a nickname, suspend the account, or terminate it permanently under section 9. Anyone removed for abuse may not open a new account.
+
+If you cannot use the in-app controls, or you want to raise something they do not cover, write to **support@injeel-it.hr**. Our contact details are in section 14.
 
 ## 7. Our intellectual property
 

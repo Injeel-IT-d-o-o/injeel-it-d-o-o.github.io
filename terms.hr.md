@@ -6,7 +6,7 @@ permalink: /terms.hr/
 
 # Uvjeti korištenja
 
-**Datum posljednje izmjene:** 2. lipnja 2026.
+**Datum posljednje izmjene:** 7. rujna 2026.
 
 Ovi Uvjeti korištenja ("Uvjeti") uređuju vaše korištenje mobilne aplikacije **UKP Quiz** ("Aplikacija"), koju pruža **Injeel IT d.o.o.**, Pete Poljanice 5, 10040 Zagreb, Hrvatska, OIB 55064630991 ("mi", "nas", "naš").
 
@@ -62,9 +62,25 @@ Suglasni ste da nećete:
 - Objavljivati sadržaj koji je nezakonit, klevetnički, povrjeđujući prava ili na drugi način neprihvatljiv
 - Ometati sigurnost Aplikacije ni korištenje Aplikacije od strane drugih korisnika
 
-## 6. Sadržaj korisnika
+## 6. Sadržaj korisnika i nulta tolerancija na zlouporabu
 
-Možete kreirati korisnička imena, imena timova i slične kratke tekstualne nizove. Zadržavate vlasništvo nad onim što unosite, no nama dajete neisključivu, besplatnu, globalnu licencu za prikaz tog sadržaja unutar Aplikacije. Sadržaj koji krši ove Uvjete ili primjenjive propise možemo ukloniti bez prethodne najave.
+Pojedini dijelovi Aplikacije omogućuju vam kreiranje sadržaja koji vide drugi igrači: korisničko ime, imena timova, vaš Arena nadimak, odgovore koje upisujete u Arena sobi uživo, emoji reakcije, poruke u Arena chatu za gledatelje i neobaveznu bilješku koju objavljujete kada tražite ekipu.
+
+Zadržavate vlasništvo nad onim što unosite, no nama dajete neisključivu, besplatnu, globalnu licencu za prikaz tog sadržaja unutar Aplikacije.
+
+**Ne toleriramo neprihvatljiv sadržaj ni zlouporabu.** Ne smijete unositi ni slati sadržaj koji je nezakonit, mrziteljski, prijeteći, uznemirujući, klevetnički, seksualno eksplicitan, diskriminirajući, kao ni sadržaj koji povrjeđuje tuđa prava, niti se smijete predstavljati kao druga osoba. Sadržaj koji se emitira drugim igračima prolazi kroz automatski filtar, a sve što krši ovo pravilo možemo ukloniti bez prethodne najave.
+
+### Prijava i blokiranje
+
+Svaki igrač u Aplikaciji ima ove mogućnosti:
+
+- **Prijava igrača.** Dulje pritisnite unos igrača u Arena feedu uživo i odaberite "Prijavi igrača". Pitanje kviza možete prijaviti opcijom "Prijavi pitanje" na kartici pitanja.
+- **Blokiranje igrača.** Isti izbornik nudi "Blokiraj". Sadržaj blokiranog igrača odmah vam se prestaje prikazivati. Blokirani igrači navedeni su na zaslonu Arena ljestvice pod "Blokirani igrači", gdje ih možete deblokirati.
+- **Utišavanje igrača** za trenutnu sesiju, bez blokiranja.
+
+Pregledavamo prijave i postupamo po njima, u pravilu u roku od 24 sata. Ovisno o utvrđenom, možemo ukloniti sadržaj, poništiti nadimak, privremeno onemogućiti račun ili ga trajno ukinuti prema članku 9. Tko je uklonjen zbog zlouporabe, ne smije otvoriti novi račun.
+
+Ako ne možete koristiti mogućnosti u Aplikaciji ili želite prijaviti nešto što one ne pokrivaju, pišite na **support@injeel-it.hr**. Naši podaci za kontakt navedeni su u članku 14.
 
 ## 7. Naša intelektualna prava
 
