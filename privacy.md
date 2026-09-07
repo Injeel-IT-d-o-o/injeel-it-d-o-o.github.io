@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Last updated:** 8 May 2026
+**Last updated:** 7 September 2026
 
 **Operator:** Injeel IT d.o.o., Pete Poljanice 5, 10040 Zagreb, Croatia
 **OIB:** 55064630991
@@ -47,6 +47,17 @@ When you use the App we collect the following categories of personal data.
 - Email verification codes you request during sign-up
 - Any messages you send to support@injeel-it.hr or privacy@injeel-it.hr
 
+**Content you share with other players**
+
+- Your Arena nickname, which is shown to everyone in a room and is separate from your account username
+- The answers you type in a live Arena room, the emoji reactions you send, and messages you post in the Arena spectator chat, all of which are shown to other players in that room
+- Team names, your team roster and event registrations, which teammates and the venue can see
+- The optional note you post on the "looking for a team" board
+- Reports you file about another player or about a quiz question, including the content the report refers to
+- The list of players you have blocked, which is private to you
+
+Live Arena guesses, reactions and chat messages are relayed through our servers in real time and are **not stored** after the room ends; only aggregated scores and statistics remain. Nicknames, reports and blocks **are** stored, so that moderation decisions can be made and repeat abuse can be identified.
+
 We do **not** track you across other companies' apps or websites, and we do **not** use any third-party advertising SDKs.
 
 ## 2. Why we collect it (purposes and legal basis)
@@ -58,6 +69,8 @@ We do **not** track you across other companies' apps or websites, and we do **no
 | Process subscription purchases (via Apple) | Performance of contract |
 | Send transactional emails (verification, password reset) | Performance of contract |
 | Send push notifications about events you registered for, news from venues you follow, and announcements | Legitimate interest (you can opt out per category in Settings) |
+| Run real-time multiplayer rooms and show the content you post to other players in them | Performance of contract |
+| Filter, review reports about, and moderate user-generated content, including blocking and removing accounts | Legitimate interest (keeping the App safe for its users) |
 | Detect and prevent abuse, fraud, and security incidents | Legitimate interest |
 | Comply with our legal obligations (tax, accounting) | Legal obligation |
 
@@ -69,6 +82,8 @@ We share personal data only with the following processors, each bound by a Data 
 - **Google LLC and Firebase** (USA): Sign in with Google, Firebase Cloud Messaging (push notification routing)
 - **Our hosting provider in the European Union**: server and database hosting, all data physically located in the EU
 - **Croatian tax authority and our accountant**: only invoice-level data required by Croatian tax law
+
+Separately from these processors, the content listed under "Content you share with other players" in section 1 is visible to other users of the App by design. Please do not post anything there that you would not want other players to see.
 
 We do **not** sell your personal data to anyone. We do **not** share it with advertisers.
 
@@ -84,6 +99,9 @@ Some processors (Apple, Google) are based in the United States. We rely on the E
 - **Subscription records and invoices:** 11 years, as required by Croatian tax law.
 - **Anonymized gameplay statistics:** retained indefinitely. These contain no personal identifiers and cannot be linked back to you.
 - **Inactive device tokens:** automatically purged after 90 days of no use.
+- **Live Arena content** (guesses, reactions, spectator chat): not stored once the room ends.
+- **Moderation records** (reports you file or that are filed about you, and the action taken): 24 months, so repeat abuse can be identified.
+- **Blocked-player lists:** for as long as your account is active.
 
 ## 6. Your rights
 

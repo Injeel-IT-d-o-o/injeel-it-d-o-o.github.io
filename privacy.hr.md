@@ -6,7 +6,7 @@ permalink: /privacy.hr/
 
 # Politika privatnosti
 
-**Datum posljednje izmjene:** 8. svibnja 2026.
+**Datum posljednje izmjene:** 7. rujna 2026.
 
 **Voditelj obrade:** Injeel IT d.o.o., Pete Poljanice 5, 10040 Zagreb, Hrvatska
 **OIB:** 55064630991
@@ -47,6 +47,17 @@ Tijekom korištenja Aplikacije prikupljamo sljedeće kategorije osobnih podataka
 - Verifikacijski kodovi koje zatražite tijekom registracije
 - Bilo koja poruka koju nam pošaljete na support@injeel-it.hr ili privacy@injeel-it.hr
 
+**Sadržaj koji dijelite s drugim igračima**
+
+- Vaš Arena nadimak, koji vide svi u sobi i koji je odvojen od korisničkog imena vašeg računa
+- Odgovori koje upisujete u Arena sobi uživo, emoji reakcije koje šaljete i poruke koje objavljujete u Arena chatu za gledatelje, a koje vide drugi igrači u toj sobi
+- Imena timova, sastav vaše ekipe i prijave na događaje, koje vide suigrači i lokal
+- Neobavezna bilješka koju objavljujete na oglasnoj ploči "tražim ekipu"
+- Prijave koje podnesete protiv drugog igrača ili za pitanje kviza, uključujući sadržaj na koji se prijava odnosi
+- Popis igrača koje ste blokirali, koji je vidljiv samo vama
+
+Odgovori, reakcije i poruke iz Arene uživo prenose se putem naših poslužitelja u stvarnom vremenu i **ne pohranjuju se** nakon završetka sobe; ostaju samo zbirni rezultati i statistika. Nadimci, prijave i blokade **pohranjuju se**, kako bismo mogli donositi odluke o moderiranju i prepoznati ponovljene zlouporabe.
+
 **Ne** pratimo vas kroz aplikacije i web stranice drugih tvrtki te **ne** koristimo oglašivačke SDK-ove trećih strana.
 
 ## 2. Zašto ih prikupljamo (svrhe i pravna osnova)
@@ -58,6 +69,8 @@ Tijekom korištenja Aplikacije prikupljamo sljedeće kategorije osobnih podataka
 | Procesiranje pretplata (preko Applea) | Izvršavanje ugovora |
 | Slanje transakcijskih e-mailova (verifikacija, oporavak lozinke) | Izvršavanje ugovora |
 | Slanje push obavijesti o događajima na koje ste prijavljeni, vijestima iz lokala koje pratite te obavijestima | Legitimni interes (možete se isključiti po kategoriji u Postavkama) |
+| Vođenje soba za igru uživo i prikaz sadržaja koji objavite drugim igračima u njima | Izvršavanje ugovora |
+| Filtriranje, pregled prijava i moderiranje korisničkog sadržaja, uključujući blokiranje i uklanjanje računa | Legitimni interes (održavanje Aplikacije sigurnom za korisnike) |
 | Prevencija zlouporabe, prijevare i sigurnosnih incidenata | Legitimni interes |
 | Ispunjavanje zakonskih obveza (porez, računovodstvo) | Zakonska obveza |
 
@@ -69,6 +82,8 @@ Osobne podatke dijelimo isključivo sa sljedećim izvršiteljima obrade, od koji
 - **Google LLC i Firebase** (SAD): Sign in with Google, Firebase Cloud Messaging (usmjeravanje push obavijesti)
 - **Naš pružatelj usluga hostinga u Europskoj uniji**: hosting poslužitelja i baze podataka, podaci fizički smješteni u EU
 - **Porezna uprava i naš računovođa**: samo podaci na razini računa propisani hrvatskim poreznim propisima
+
+Neovisno o tim izvršiteljima obrade, sadržaj naveden pod "Sadržaj koji dijelite s drugim igračima" u 1. odjeljku po svojoj je naravi vidljiv drugim korisnicima Aplikacije. Nemojte ondje objavljivati ništa što ne biste željeli da drugi igrači vide.
 
 **Ne** prodajemo vaše osobne podatke nikome. **Ne** dijelimo ih s oglašivačima.
 
@@ -84,6 +99,9 @@ Pojedini izvršitelji obrade (Apple, Google) imaju sjedište u Sjedinjenim Ameri
 - **Podaci o pretplati i računi:** 11 godina, kako propisuju hrvatski porezni propisi.
 - **Anonimizirana statistika igre:** čuva se neograničeno. Ne sadrži osobne identifikatore i ne može se povezati s vama.
 - **Neaktivni tokeni uređaja:** automatski se brišu nakon 90 dana neaktivnosti.
+- **Sadržaj iz Arene uživo** (odgovori, reakcije, chat za gledatelje): ne pohranjuje se nakon završetka sobe.
+- **Evidencija moderiranja** (prijave koje podnesete ili koje su podnesene protiv vas, i poduzeta radnja): 24 mjeseca, radi prepoznavanja ponovljenih zlouporaba.
+- **Popis blokiranih igrača:** dok je vaš račun aktivan.
 
 ## 6. Vaša prava
 
