@@ -19,6 +19,14 @@ These URLs go into App Store Connect under:
 - **Subscription → Terms of Use URL** → `/terms`
 - **Support URL** → `/support`
 
+## Laiq
+
+Laiq is the UKP Quiz app's name outside Croatia, Slovenia, Bosnia and Herzegovina, Serbia and Montenegro (same app, same account). Under the Laiq brand the app opens the same documents under `/laiq/` (`BrandIdentity.legalBase`), English only:
+
+- https://injeel-it-d-o-o.github.io/laiq/privacy, `/laiq/terms`, `/laiq/support`, `/laiq/help`, `/laiq/delete-account`
+
+They are made from the English UKP pages (name Laiq, premium Laiq+, a note that Laiq and UKP Quiz are the same app). When a UKP document changes, change its `/laiq/` copy too.
+
 ## How it works
 
 This is a GitHub Pages organization site (the `<org>.github.io` repo on the [Injeel-IT-d-o-o](https://github.com/Injeel-IT-d-o-o) org). Both `.html` and `.md` versions of each page are committed; GitHub Pages serves the `.html` files when present and Jekyll renders the `.md` files for clean URLs.
